@@ -33,7 +33,7 @@ char HostURL[250] = {};
 char DelayinSeconds[250] = {};
 
 string logmessage = "";
-string Version = "mtrmstnmr Ver. 00.00.01.1";
+string Version = "mtrmstnmr Ver. 00.00.02.1";
 string ByWho = "By Mark Meadows";
 
 void send_data_to_mattermost(void);
