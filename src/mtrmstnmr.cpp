@@ -2,7 +2,7 @@
 // Name        : mtrmstnmr.cpp
 // Author      : Mark Meadows
 // Version     :
-// Copyright   : copyright 2018
+// Copyright   : copyright 2019
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
